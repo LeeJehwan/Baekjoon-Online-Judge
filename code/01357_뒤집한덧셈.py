@@ -1,0 +1,6 @@
+x, y = input().split()
+x = int(x[::-1])
+y = int(y[::-1])
+z = str(x + y)
+z = int(z[::-1])
+print(z)
