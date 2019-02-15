@@ -1,4 +1,4 @@
 # Baekjoon-Online-Judge
 BOJ algorithm
 
-[백준 아이디](https://www.acmicpc.net/user/wpghks7){:target="_blank"}
+<a href="https://www.acmicpc.net/user/wpghks7" target="_blank">백준아이디</a>
